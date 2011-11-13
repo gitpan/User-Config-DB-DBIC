@@ -1,0 +1,7 @@
+Revision history for Perl extension User::Config::DB::DBIC.
+
+0.01_01  Fri Nov 11 16:10:45 2011
+	- splitted from User::Config
+	- original version; created by h2xs 1.23 with options
+		-Xn User::Config::DB::DBIC -v 0.01_01
+
